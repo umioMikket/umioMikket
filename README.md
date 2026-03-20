@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello! I'm UmioMikket! 
 
-<!--
-**umioMikket/umiomikket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m an independent developer and artist.
 
-Here are some ideas to get you started:
+I combine the areas of drawing 2D art with programming individual projects in my life.
+In development, I adhere to the principle of minimizing the use of other people's library solutions,
+if they are in my opinion they are too cumbersome to solve a certain problem. After all, why shoot from
+guns on sparrows? And this worsens the understanding of algorithms and code structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What am I working on now?
+Working on writing a CSS-like theme engine for swing, 
+since simple customization of applications for it has always been its problematic part.
+At the moment there are no tools that would completely solve this problem.
+As an alternative to swing, there is Compose, but again it seems cumbersome to me,
+In addition, it forces you to use the Kotlin language to log in.
+
+<p align="center" style="bold">Development languages and tools I use</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,py,selenium,idea,vscode,github,git,&theme=light" />
+  </a>
+</p>
