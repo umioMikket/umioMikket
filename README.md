@@ -17,6 +17,6 @@ In addition, it forces you to use the Kotlin language to log in.
 <p align="center" style="bold">Development languages and tools I use</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,py,cs,selenium,idea,vscode,github,git,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,py,cs,selenium,idea,vscode,github,git&theme=light" />
   </a>
 </p>
