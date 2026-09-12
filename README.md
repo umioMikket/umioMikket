@@ -13,10 +13,3 @@ since simple customization of applications for it has always been its problemati
 At the moment there are no tools that would completely solve this problem.
 As an alternative to swing, there is Compose, but again it seems cumbersome to me,
 In addition, it forces you to use the Kotlin language to log in.
-
-<p align="center" style="bold">Development languages and tools I use</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,py,cs,selenium,idea,vscode,github,git&theme=light" />
-  </a>
-</p>
